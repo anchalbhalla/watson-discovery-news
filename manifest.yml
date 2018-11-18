@@ -13,6 +13,6 @@ applications:
   random-route: true
   timeout: 180
   services:
-  - discovery-news-service
+  - discovery-news-service-byanchal
 env:
   SLACK_BOT_TOKEN: placeholder
